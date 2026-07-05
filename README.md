@@ -1,4 +1,4 @@
-Smart Token Queue Management System (README)
+Smart Token Queue Management System (DSA Project)
 Project Overview
 This project is a Python based Smart Token Queue Management System that simulates real world hospital or bank queue handling using Data Structures and Algorithms. It manages customers using token numbers and priority based scheduling.
 Objective
